@@ -9,4 +9,10 @@ NJOROGE KARUGU
 flask framework
 
 
+## Setup/Installation Requirements
+* install flask on your machine.
+* Search for yareyaska/github-searcher repository.
+* Clone project
+* after cloning open it with the terminal using the ./start.
+* once ur in the directory activate virtual
 
