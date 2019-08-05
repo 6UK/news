@@ -16,3 +16,6 @@ flask framework
 * after cloning open it with the terminal using the ./start.
 * once ur in the directory activate virtual
 
+
+## Known bugs
+No bugs of yet if any
